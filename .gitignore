@@ -2,4 +2,5 @@
 /.gradle/
 /.idea/
 /build/
-/geeksforgeeks.iml
+/algos.iml
+/out/
